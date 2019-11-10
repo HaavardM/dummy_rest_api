@@ -5,9 +5,59 @@
         "id": 1,
         "title": "An article",
         "category": "adventure",
-        "thumbnailURL": "",
+        "thumbnailURL": "https://cdn.verussensus.com/img/articles/1.jpg",
         "timestamp": "2019-11-10",
         "description": "This is an article!!"
+      }
+    },
+    {
+      "metadata": {
+        "id": 2,
+        "title": "An adventure",
+        "category": "adventure",
+        "thumbnailURL": "https://cdn.verussensus.com/img/articles/2.jpg",
+        "timestamp": "2019-11-10",
+        "description": "This is another article!!"
+      }
+    },
+    {
+      "metadata": {
+        "id": 3,
+        "title": "A new picture",
+        "category": "photography",
+        "thumbnailURL": "https://cdn.verussensus.com/img/articles/3.jpg",
+        "timestamp": "2019-11-10",
+        "description": "This is another article!!"
+      }
+    },
+    {
+      "metadata": {
+        "id":4,
+        "title": "A new video",
+        "category": "videography",
+        "thumbnailURL": "https://cdn.verussensus.com/img/articles/4.jpg",
+        "timestamp": "2019-11-10",
+        "description": "Our newest video!!"
+      }
+    },
+    {
+      "metadata": {
+        "id": 5,
+        "title": "An adventure",
+        "category": "adventure",
+        "thumbnailURL": "https://cdn.verussensus.com/img/articles/5.jpg",
+        "timestamp": "2019-11-10",
+        "description": "This is another article!!"
+      }
+    },
+    {
+      "metadata": {
+        "id": 6,
+        "title": "An adventure",
+        "category": "adventure",
+        "thumbnailURL": "https://cdn.verussensus.com/img/articles/6.jpg",
+        "timestamp": "2019-11-10",
+        "description": "This is another article!!"
       }
     }
   ]
