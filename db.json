@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "metadata": {
+        "id": 1,
+        "title": "An article",
+        "category: "adventure",
+        "thumbnailURL": "",
+        "timestamp": "2019-11-10",
+        "description: "This is an article!!"
+      }
+    }
+  ]
+}
