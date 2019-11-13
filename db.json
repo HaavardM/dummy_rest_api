@@ -7,12 +7,12 @@
         "category": "adventure",
         "thumbnailURL": "https://cdn.verussensus.com/img/articles/1.jpg",
         "timestamp": "2019-11-10",
-        "description": "This is an article!!",
-        "data": {
+        "description": "This is an article!!"
+      },
+      "data": {
          "text": "A lot of article text",
           "imageURL": "https://cdn.verussensus.com/img/articles/1.jpg"
         }
-      }
     },
     {
       "metadata": {
@@ -21,12 +21,12 @@
         "category": "adventure",
         "thumbnailURL": "https://cdn.verussensus.com/img/articles/2.jpg",
         "timestamp": "2019-11-10",
-        "description": "This is another article!!",
-        "data": {
+        "description": "This is another article!!"
+      },
+      "data": {
          "text": "A lot of article text",
           "imageURL": "https://cdn.verussensus.com/img/articles/2.jpg"
         }
-      }
     },
     {
       "metadata": {
@@ -35,11 +35,11 @@
         "category": "photography",
         "thumbnailURL": "https://cdn.verussensus.com/img/articles/3.jpg",
         "timestamp": "2019-11-10",
-        "description": "This is another article!!",
-        "data": {
-         "text": "A lot of article text",
-          "imageURL": "https://cdn.verussensus.com/img/articles/3.jpg"
-        }
+        "description": "This is another article!!"
+      },
+      "data": {
+        "text": "A lot of article text",
+        "imageURL": "https://cdn.verussensus.com/img/articles/3.jpg"
       }
     },
     {
@@ -49,11 +49,11 @@
         "category": "videography",
         "thumbnailURL": "https://cdn.verussensus.com/img/articles/4.jpg",
         "timestamp": "2019-11-10",
-        "description": "Our newest video!!",
-        "data": {
+        "description": "Our newest video!!"
+      },
+      "data": {
          "text": "A lot of article text",
           "imageURL": "https://cdn.verussensus.com/img/articles/4.jpg"
-        }
       }
     },
     {
@@ -63,11 +63,11 @@
         "category": "adventure",
         "thumbnailURL": "https://cdn.verussensus.com/img/articles/5.jpg",
         "timestamp": "2019-11-10",
-        "description": "This is another article!!",
-        "data": {
+        "description": "This is another article!!"
+      },
+      "data": {
          "text": "A lot of article text",
           "imageURL": "https://cdn.verussensus.com/img/articles/5.jpg"
-        }
       }
     },
     {
@@ -77,11 +77,11 @@
         "category": "adventure",
         "thumbnailURL": "https://cdn.verussensus.com/img/articles/6.jpg",
         "timestamp": "2019-11-10",
-        "description": "This is another article!!",
-        "data": {
+        "description": "This is another article!!"
+      },
+      "data": {
          "text": "A lot of article text",
           "imageURL": "https://cdn.verussensus.com/img/articles/6.jpg"
-        }
       }
     }
   ]
